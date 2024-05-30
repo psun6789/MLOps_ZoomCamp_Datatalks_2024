@@ -1,1 +1,15 @@
 
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre static type analyzer
+.pyre/
+
+# Cython debug symbols
+cython/debug/
+
+# _data/*
+
+# artifacts/*
