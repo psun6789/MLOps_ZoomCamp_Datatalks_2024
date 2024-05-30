@@ -1,0 +1,9 @@
+python==3.9.7
+numpy
+pandas
+pyarrow
+nbconverter # to convert ipynb file to pdf or html
+scikit-learn
+matplotlib
+seaborn
+
