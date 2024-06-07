@@ -6,4 +6,13 @@ nbconverter # to convert ipynb file to pdf or html
 scikit-learn
 matplotlib
 seaborn
+jupyter
+fastparquet
+
+
+#Week-02 Requirements
+mlflow
+hyperopt
+xgboost
+boto3
 
