@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nimbus/_00_Peter_Practice_Projects/_02_In_Progress/_02_ML_Ops_ZoomCamp_DataTalks_2024/01_mlops_2024/MLOps_ZoomCamp_Datatalks_2024/02_week/mlruns/0/cb16b7cf8b0e4b8bbfd043641cda943a/artifacts
+end_time: 1718035159469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb16b7cf8b0e4b8bbfd043641cda943a
+run_name: thoughtful-yak-784
+run_uuid: cb16b7cf8b0e4b8bbfd043641cda943a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718035144593
+status: 3
+tags: []
+user_id: Nimbus

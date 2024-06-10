@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nimbus/_00_Peter_Practice_Projects/_02_In_Progress/_02_ML_Ops_ZoomCamp_DataTalks_2024/01_mlops_2024/MLOps_ZoomCamp_Datatalks_2024/02_week/mlruns/0/72ef6f0d919140baafb6f94bdda87b38/artifacts
+end_time: 1718035184021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72ef6f0d919140baafb6f94bdda87b38
+run_name: capricious-shark-552
+run_uuid: 72ef6f0d919140baafb6f94bdda87b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718035171509
+status: 3
+tags: []
+user_id: Nimbus
